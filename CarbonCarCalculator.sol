@@ -3,7 +3,7 @@ pragma solidity ^0.8.0;
 
 import "../operator/IOperator.sol";
 
-contract CarbonPaperCalculator {
+contract CarbonCarCalculator {
     mapping(string => uint256) private fuelEmissions;
 
     address public operatorManager;
