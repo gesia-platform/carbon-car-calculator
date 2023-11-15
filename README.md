@@ -30,6 +30,25 @@ GASOLINE(fuel type), 1000km(distance), 25km/L(fuel economy)
  - 87104000000000000000 (in UI it should be divided by 18 decimals 87.104)
 ```
 
+## 🚀 Smart Contract Deployment Information
+
+The Smart Contract-Based Carbon Footprint Calculator has been deployed on the Gesia Chain. Below are the deployment details:
+
+### Operator Contract
+
+- **Contract Address**: 0x05c2Cf146d136e9C7c79d5aDAF31704b6e73c30B
+- **Transaction Hash**: 0x878b2a6f8ad46f32065a4e5ec953160490efceb3e3a02da08314226dffe84eb4
+
+### Calculator Contract
+
+- **Contract Address**: 0x878cc96bf7F9dA58142559312B2C6211DECD5834
+- **Transaction Hash**: 0x68efa73287e36e5dd98f0a228c919d526567343735a98aa1f9ab1afa564d7678
+
+You can verify the deployment of the Calculator Contract by checking the contract address and transaction hash on [Gesia Explorer](https://explorer.gesia.io). Here are the links for your convenience:
+
+- [Operator Contract on Gesia Chain](https://explorer.gesia.io/address/0x05c2Cf146d136e9C7c79d5aDAF31704b6e73c30B)
+- [Calculator Contract on Gesia Chain](https://explorer.gesia.io/address/0x878cc96bf7F9dA58142559312B2C6211DECD5834)
+
 ## 📝 How is it calculated?
 The carbon emissions are calculated based on the emission factors and calculation methods referenced from the [에너지, 산업공정의 국가 에너지 발열량 및 온실가스 배출계수](https://tips.energy.or.kr/carbon/Ggas_tatistics03.do)
 
