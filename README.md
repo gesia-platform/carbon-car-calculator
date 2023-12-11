@@ -54,8 +54,14 @@ The carbon emissions are calculated based on the emission factors and calculatio
 
 The following formula is the essential formula of Carbon Footprint Calculator.
 ``` plain
+# emission factor of gasoline: 2.1776
+# emission factor of diesel: 2.6003
+# emission factor of LPG: 3.7309
+
 range(km) ÷ fuel economy(km/L) x emission factors of car fuel(kgCO2/L)
- ```
+```
+
+Please refer to the [Link](https://docs.google.com/spreadsheets/d/1Ux_1j0GeKGeHm8ODT-M-Hr23sCayQYw70shNw2le0Bs/edit#gid=328263512) for more detailed info.
 
 ## 📚 Sources
 - [에너지, 산업공정의 국가 에너지 발열량 및 온실가스 배출계수](https://tips.energy.or.kr/carbon/Ggas_tatistics03.do)
