@@ -52,6 +52,11 @@ You can verify the deployment of the Calculator Contract by checking the contrac
 ## 📝 How is it calculated?
 The carbon emissions are calculated based on the emission factors and calculation methods referenced from the [에너지, 산업공정의 국가 에너지 발열량 및 온실가스 배출계수](https://tips.energy.or.kr/carbon/Ggas_tatistics03.do)
 
+The following formula is the essential formula of Carbon Footprint Calculator.
+``` plain
+range(km) / fuel economy(km/L) x emission factors of car fuel(kgCO2/L)
+ ```
+
 ## 📚 Sources
 - [에너지, 산업공정의 국가 에너지 발열량 및 온실가스 배출계수](https://tips.energy.or.kr/carbon/Ggas_tatistics03.do)
 - [List of elements by atomic properties](https://en.wikipedia.org/wiki/List_of_elements_by_atomic_properties)
