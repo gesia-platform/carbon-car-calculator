@@ -54,7 +54,7 @@ The carbon emissions are calculated based on the emission factors and calculatio
 
 The following formula is the essential formula of Carbon Footprint Calculator.
 ``` plain
-range(km) / fuel economy(km/L) x emission factors of car fuel(kgCO2/L)
+range(km) ÷ fuel economy(km/L) x emission factors of car fuel(kgCO2/L)
  ```
 
 ## 📚 Sources
